@@ -1,0 +1,7 @@
+input {
+  width: 150px;
+  height: 20px;
+  font-size: large;
+  outline: 0;
+    outline-offset: 0;
+}
